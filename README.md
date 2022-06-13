@@ -53,7 +53,7 @@ Any questions or suggestions?
 
 You are welcome to discuss it on:
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymen-ouerghi-249632146](https://www.linkedin.com/in/agung-priyatna-a0257b199)/)
+[Lets go to Quora](https://www.quora.com)
 
 <br/>
 <br/>
