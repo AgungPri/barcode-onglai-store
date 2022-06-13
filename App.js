@@ -16,7 +16,7 @@ function Header() {
   return (
     <View style={styles.header}>
       <View style={styles.headercontainer}>
-        <Text style={styles.headertext}>Concircle Scanner App</Text>
+        <Text style={styles.headertext}>Scanner App onglaistore</Text>
       </View>
     </View>
   );
@@ -181,7 +181,7 @@ const styles = StyleSheet.create({
     paddingTop: Platform.OS === "android" ? StatusBar.currentHeight : 0,
   },
   header: {
-    height:  50,
+    height: 50,
   },
   headercontainer: {
     display: "flex",
@@ -194,6 +194,10 @@ const styles = StyleSheet.create({
   headertext: {
     fontSize: 16,
     fontWeight: "bold",
+    color: "white",
+    padding: 10,
+    borderRadius: 10,
+    backgroundColor: "blue",
   },
   appcontainer: {
     display: "flex",
