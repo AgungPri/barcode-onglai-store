@@ -53,7 +53,7 @@ Any questions or suggestions?
 
 You are welcome to discuss it on:
 
-[Lets go to Quora](https://www.quora.com)
+[Linkedin AgungPriyatna]([https://www.quora.com](https://www.linkedin.com/in/agung-priyatna-a0257b199))
 
 <br/>
 <br/>
