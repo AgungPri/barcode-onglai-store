@@ -53,8 +53,7 @@ Any questions or suggestions?
 
 You are welcome to discuss it on:
 
-[Linkedin AgungPriyatna] [/https://www.linkedin.com/in/agung-priyatna-a0257b199]
-
+[Linkedin AgungPriyatna](https://www.linkedin.com/in/agung-priyatna-a0257b199)
 <br/>
 <br/>
 <br/>
